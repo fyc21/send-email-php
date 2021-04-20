@@ -1,1 +1,1 @@
-Send email using  PHP script
+Send email from localhost using  PHP script
